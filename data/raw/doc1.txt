@@ -1,0 +1,1 @@
+Sistem informasi akademik digunakan untuk mengelola data mahasiswa, jadwal kuliah, dan nilai secara terintegrasi di lingkungan universitas.

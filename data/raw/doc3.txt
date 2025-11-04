@@ -1,0 +1,1 @@
+Manajemen basis data bertujuan menjaga konsistensi dan keamanan data agar informasi mudah diakses oleh pengguna.

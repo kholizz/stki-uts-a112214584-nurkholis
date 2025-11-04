@@ -1,0 +1,1 @@
+Penggunaan algoritma pencarian dalam search engine membantu pengguna menemukan dokumen paling relevan dengan kueri tertentu.
